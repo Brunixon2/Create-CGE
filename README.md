@@ -1,3 +1,4 @@
 <div align="center">
   <img src=".png's/logo.png" width="400" height="400" alt="Not existing">
   <h1>Create: CGE</h1>
+<img src=".png's/Available_on_modrinth.png" width="500" height="150" alt="Not existing">
