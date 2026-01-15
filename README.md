@@ -18,4 +18,9 @@
   <br>
 
   <img src=".png's/Supported_versions_list.png" width="500" height="500" alt="Supported versions list">
+  
+  ## Note from creator:
+  This is my first mod for minecraft :) | This mod adds a new block called Gravel Extractor which can turn gravel into resources
+  ## Mod overview/summary:
+  This mod basically adds **Gravel Extractors** with can turn gravel into resources like: **Coal, Copper, Iron, Gold, Diamond, Netherite, Lapis Lazuli, Redstone, Amethyst, Emerald, Brass Nuggets, Andesite Alloy, Zinc Nuggets**
 </div>
