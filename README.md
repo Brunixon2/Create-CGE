@@ -11,6 +11,7 @@
     <img src=".png's/Available_on_curseforge.png" width="500" height="150" alt="Available on CurseForge">
   </a>
 
+<h1></h1>
   <br><br>
 
   <img src=".png's/Supported_versions.png" width="1000" height="200" alt="Supported versions">
