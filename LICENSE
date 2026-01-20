@@ -12,16 +12,18 @@ PERMITTED USE
 You are permitted to:
 - Include the unmodified Mod in public or private Minecraft modpacks.
 - Distribute the Mod as part of a modpack via recognized modpack platforms
-  (e.g. CurseForge, Modrinth, ATLauncher, Prism Launcher).
+  (CurseForge, Modrinth)[ ONLY THESE TWO ].
 
 The Mod must remain completely unmodified and must include this license file.
+
+(Normally it isn't in the mod files) 
 
 PROHIBITED USE
 --------------
 You may NOT:
 - Copy, modify, decompile, reverse-engineer, or extract any part of the Mod.
 - Reuse or redistribute the Mod’s code, assets, textures,
-  or data files, in whole or in part.
+  or data files, in whole or in part.
 - Include any portion of the Mod in another mod or project.
 - Reupload the Mod outside of modpack distribution.
 - Claim ownership or authorship of the Mod or any of its contents.
